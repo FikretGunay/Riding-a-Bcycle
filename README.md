@@ -1,4 +1,5 @@
-# *kursiv text*Riding-a-Bcycle
-## **fet text** Exercises
-## **fet text** Rules to play
+# **Riding-a-Bcycle**
+## *Exercises*
+## *Rules to play*
 ![alt text](bild.png) ![image](https://github.com/FikretGunay/Riding-a-Bcycle/assets/135028981/883a16f7-ffa6-4cc9-8911-98665982b8b8)
+
